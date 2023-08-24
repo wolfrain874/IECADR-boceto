@@ -1,0 +1,14 @@
+export const NoticiasUrl = "http://192.168.0.67:3000/Noticias";
+export const AgendaUrl="http://192.168.0.67:3000/Agenda";
+export const oportunidadesUrl="http://192.168.0.67:3000/oportunidades";
+export const LinksUrl="http://192.168.0.67:3000/Links";
+export const sedesUrl="http://192.168.0.67:3000/sedes";
+export const AboutUrl="http://192.168.0.67:3000/About";
+export const ProyectosUrl="http://192.168.0.67:3000/Proyectos"
+export const SecundProyectosUrl="http://localhost:3000/secundProyectos"
+export const curriculumUrl = "http://192.168.0.67:3000/Curriculum"
+export const ManualUrl = "../../../public/manual.pdf";
+export const consejoUrl="http://192.168.0.67:3000/consejo";
+export const postUrl="http://localhost:3001/post";
+export const perfilImg= "../../assets/perfil.jpg";
+export const usuarioUrl = "http://192.168.0.67:3000/usuarios"

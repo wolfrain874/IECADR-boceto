@@ -1,0 +1,278 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Carlos Arturo Duque Ramirez",
+      "username": "admin",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    }
+  ],
+  "Noticias": [
+    {
+      "id": 3,
+      "title": "Imagen 3",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "description": "Descripción de la imagen 3"
+    },
+    {
+      "title": "Se presentan robos en la institucion",
+      "description": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "id": 4
+    },
+    {
+      "title": "alineacion planetaria",
+      "description": "oifvnfopsiucbnsbcnasiocbns0i b08ybcs08cbna0w8ebcna08yhca0wu89chaw90ucbn0e8rfbsizfbsivnczosñv<siugbcuiauecbiascecyvaeivbaeicbdepidbasipefvaep8yfvpebwepyifvwpeifbvwpe",
+      "imageUrl": "https://us.123rf.com/450wm/shushanto/shushanto2209/shushanto220900703/191842443-imagen-de-fondo-de-la-ilustraci%C3%B3n-del-arte-conceptual-de-la-destrucci%C3%B3n-de-los-planetas.jpg",
+      "id": 5
+    }
+  ],
+  "Agenda": [
+    {
+      "id": 2,
+      "Agendatitle": "agenda 2",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "description": "Descripción de la imagen 2"
+    },
+    {
+      "id": 3,
+      "Agendatitle": "agenda 3",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "description": "Descripción de la imagen 3"
+    },
+    {
+      "title": "",
+      "description": "Torneo de futbol 24/08/23",
+      "imageUrl": "d",
+      "id": 4
+    },
+    {
+      "title": "",
+      "description": "Torneo de mari0 23/08/23",
+      "imageUrl": "data:image/png;base64,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",
+      "id": 5
+    }
+  ],
+  "Links": [
+    {
+      "id": 0,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    }
+  ],
+  "oportunidades": [
+    {
+      "id": 1,
+      "name": "Robotica",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Carlos Alberto Ruiz",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "id": 2,
+      "name": "Baloncesto",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Flor Maria",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "Para el año 2025 la Institución Educativa Carlos Arturo Duque Ramírez, será reconocida en la región por su excelente nivel académico, aporte a la innovación, formación en valores y estudiantes con sentido de pertenencia, comprometidos en la conservación del medio ambiente y la práctica de convivencia ciudadana que permita el desarrollo intelectual, socioeconómico, cultural y deportivo; aportando al mejoramiento de la calidad de vida en los ámbitos local, regional y nacional."
+    },
+    {
+      "id": 3,
+      "name": "Desarrollo web",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Flor Maria",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "La Institución Educativa Carlos Arturo Duque Ramírez de carácter oficial, ofrece educación preescolar, básica, media académica y modelos educativos flexibles, para la formación integral a niños, niñas, jóvenes y adultos; desarrollando competencias básicas y ciudadanas, a través de procesos didácticos como la investigación, contribuyendo al sostenimiento y conservación de un buen entorno social, ambiental, cultural, político y económico del Municipio"
+    },
+    {
+      "name": "Estudia tu curso de fotos",
+      "description": "oñwafnfrb ajfawoefw",
+      "imageUrl": "https://i.blogs.es/e1feab/google-fotos/1366_2000.jpg",
+      "id": 4
+    },
+    {
+      "name": "opor",
+      "description": "aisbcsojf",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "id": 5
+    }
+  ],
+  "sedes": [
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "mulas",
+      "description": "En Montaña Verde, nuestra misión es fomentar un ambiente de aprendizaje estimulante y enriquecedor que nutra el crecimiento académico, personal y social de cada estudiante. Valoramos la curiosidad, la creatividad y el pensamiento crítico, y nos esforzamos por desarrollar estas habilidades en nuestros estudiantes a medida que exploran el mundo que les rodea."
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "Carlos arturo",
+      "description": "Nuestro enfoque educativo se basa en proporcionar una educación sólida y equilibrada que combine rigurosos estándares académicos con el desarrollo de habilidades prácticas y sociales. Ofrecemos un plan de estudios diversificado que integra la tecnología, las artes, las ciencias y la educación física para preparar a nuestros estudiantes para los desafíos del siglo XXI."
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "San luis beltran",
+      "description": "Nuestro enfoque educativo se basa en proporcionar una educación sólida y equilibrada que combine rigurosos estándares académicos con el desarrollo de habilidades prácticas y sociales. Ofrecemos un plan de estudios diversificado que integra la tecnología, las artes, las ciencias y la educación física para preparar a nuestros estudiantes para los desafíos del siglo XXI."
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "angelitas",
+      "description": "En Montaña Verde, nos enorgullece contar con un equipo de educadores apasionados y comprometidos que están dedicados a inspirar y empoderar a nuestros estudiantes. Nuestra facultad está compuesta por expertos en sus campos respectivos, que brindan orientación y apoyo individualizado para asegurarse de que cada estudiante alcance su máximo potencial."
+    }
+  ],
+  "About": [
+    {
+      "name": "Historia",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "name": "vision",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "description": "Para el año 2025 la Institución Educativa Carlos Arturo Duque Ramírez, será reconocida en la región por su excelente nivel académico, aporte a la innovación, formación en valores y estudiantes con sentido de pertenencia, comprometidos en la conservación del medio ambiente y la práctica de convivencia ciudadana que permita el desarrollo intelectual, socioeconómico, cultural y deportivo; aportando al mejoramiento de la calidad de vida en los ámbitos local, regional y nacional."
+    },
+    {
+      "name": "mision",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "description": "La Institución Educativa Carlos Arturo Duque Ramírez de carácter oficial, ofrece educación preescolar, básica, media académica y modelos educativos flexibles, para la formación integral a niños, niñas, jóvenes y adultos; desarrollando competencias básicas y ciudadanas, a través de procesos didácticos como la investigación, contribuyendo al sostenimiento y conservación de un buen entorno social, ambiental, cultural, político y económico del Municipio"
+    }
+  ],
+  "Proyectos": [
+    {
+      "id": 2,
+      "name": "Baloncesto",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Flor Maria",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "Para el año 2025 la Institución Educativa Carlos Arturo Duque Ramírez, será reconocida en la región por su excelente nivel académico, aporte a la innovación, formación en valores y estudiantes con sentido de pertenencia, comprometidos en la conservación del medio ambiente y la práctica de convivencia ciudadana que permita el desarrollo intelectual, socioeconómico, cultural y deportivo; aportando al mejoramiento de la calidad de vida en los ámbitos local, regional y nacional."
+    },
+    {
+      "id": 3,
+      "name": "Desarrollo web",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Flor Maria",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "La Institución Educativa Carlos Arturo Duque Ramírez de carácter oficial, ofrece educación preescolar, básica, media académica y modelos educativos flexibles, para la formación integral a niños, niñas, jóvenes y adultos; desarrollando competencias básicas y ciudadanas, a través de procesos didácticos como la investigación, contribuyendo al sostenimiento y conservación de un buen entorno social, ambiental, cultural, político y económico del Municipio"
+    },
+    {
+      "name": "Robotica",
+      "description": "LEFVBSUKDYFVDBAISYTCDudvausycbaiwl clwiaeh cbh0sa´dic bsñdoiucb ldbseibf dbucbvkawdbv wcbawij fcwiphdbwkqeghvskuydgvb fwa9ujweb f98waeubfs98dhcbo8ui ba89du awd",
+      "imageUrl": "https://img.freepik.com/vector-gratis/ninos-arreglando-robot-juntos_1308-79403.jpg",
+      "archivos": "",
+      "encargado": {
+        "name": "Carlos alberto Ruiz",
+        "imageUrl": "https://c8.alamy.com/compes/tc604g/guapo-profesor-de-matematicas-de-la-realizacion-de-la-leccion-en-el-aula-tc604g.jpg",
+        "sede": "Carlos Arturo"
+      },
+      "id": 4
+    }
+  ],
+  "Curriculum": [
+    {
+      "name": "Matematicas",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com/c/NjExMDU5MjY4Mjgx",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Carlos Alberto Ruiz",
+        "sede": "Carlos Arturo"
+      },
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "id": 4,
+      "name": "ciencias",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Maturana",
+        "sede": "Carlos Arturo"
+      },
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "name": "Fisica",
+      "description": "AIUFBAIPURFBVGWPAEIUFBAWEPIFBAEWUIFBWAEPIUFVBWIEVBPAIFVBCAIPUBWEUAIVE",
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "archivos": "",
+      "encargado": {
+        "name": "Lorena",
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "sede": "Carlos arturo"
+      },
+      "id": 5
+    }
+  ],
+  "consejo": [
+    {
+      "id": 1,
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "ocupacion": "Representante",
+      "sede": "carlos arturo"
+    },
+    {
+      "id": 5,
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "ocupacion": "Representante",
+      "sede": "carlos arturo"
+    },
+    {
+      "name": "cesar",
+      "ocupacion": "rector",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "sede": "carlos arturo",
+      "id": 7
+    }
+  ]
+}

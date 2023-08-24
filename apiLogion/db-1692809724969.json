@@ -1,0 +1,311 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Carlos Arturo Duque Ramirez",
+      "username": "admin",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    }
+  ],
+  "Noticias": [
+    {
+      "id": 3,
+      "title": "Imagen 3",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "description": "Descripción de la imagen 3"
+    },
+    {
+      "title": "Se presentan robos en la institucion",
+      "description": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "id": 4
+    }
+  ],
+  "Agenda": [
+    {
+      "id": 2,
+      "Agendatitle": "agenda 2",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "description": "Descripción de la imagen 2"
+    },
+    {
+      "id": 3,
+      "Agendatitle": "agenda 3",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "description": "Descripción de la imagen 3"
+    }
+  ],
+  "Links": [
+    {
+      "id": 0,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://via.placeholder.com/120x120"
+    }
+  ],
+  "oportunidades": [
+    {
+      "name": "Oportunidad 1",
+      "description": "\"Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?\"",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "id": 5
+    },
+    {
+      "name": "Oportunidad 2",
+      "description": "\"Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?\"",
+      "imageUrl": "https://via.placeholder.com/300x200",
+      "id": 6
+    },
+    {
+      "name": "Oportunidad 3",
+      "description": "shvcuvsurecvwaer",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "id": 7
+    }
+  ],
+  "sedes": [
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "mulas",
+      "description": "En Montaña Verde, nuestra misión es fomentar un ambiente de aprendizaje estimulante y enriquecedor que nutra el crecimiento académico, personal y social de cada estudiante. Valoramos la curiosidad, la creatividad y el pensamiento crítico, y nos esforzamos por desarrollar estas habilidades en nuestros estudiantes a medida que exploran el mundo que les rodea."
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "Carlos arturo",
+      "description": "Nuestro enfoque educativo se basa en proporcionar una educación sólida y equilibrada que combine rigurosos estándares académicos con el desarrollo de habilidades prácticas y sociales. Ofrecemos un plan de estudios diversificado que integra la tecnología, las artes, las ciencias y la educación física para preparar a nuestros estudiantes para los desafíos del siglo XXI."
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "San luis beltran",
+      "description": "Nuestro enfoque educativo se basa en proporcionar una educación sólida y equilibrada que combine rigurosos estándares académicos con el desarrollo de habilidades prácticas y sociales. Ofrecemos un plan de estudios diversificado que integra la tecnología, las artes, las ciencias y la educación física para preparar a nuestros estudiantes para los desafíos del siglo XXI."
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "name": "angelitas",
+      "description": "En Montaña Verde, nos enorgullece contar con un equipo de educadores apasionados y comprometidos que están dedicados a inspirar y empoderar a nuestros estudiantes. Nuestra facultad está compuesta por expertos en sus campos respectivos, que brindan orientación y apoyo individualizado para asegurarse de que cada estudiante alcance su máximo potencial."
+    }
+  ],
+  "About": [
+    {
+      "name": "Historia",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "name": "vision",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "description": "Para el año 2025 la Institución Educativa Carlos Arturo Duque Ramírez, será reconocida en la región por su excelente nivel académico, aporte a la innovación, formación en valores y estudiantes con sentido de pertenencia, comprometidos en la conservación del medio ambiente y la práctica de convivencia ciudadana que permita el desarrollo intelectual, socioeconómico, cultural y deportivo; aportando al mejoramiento de la calidad de vida en los ámbitos local, regional y nacional."
+    },
+    {
+      "name": "mision",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "description": "La Institución Educativa Carlos Arturo Duque Ramírez de carácter oficial, ofrece educación preescolar, básica, media académica y modelos educativos flexibles, para la formación integral a niños, niñas, jóvenes y adultos; desarrollando competencias básicas y ciudadanas, a través de procesos didácticos como la investigación, contribuyendo al sostenimiento y conservación de un buen entorno social, ambiental, cultural, político y económico del Municipio"
+    }
+  ],
+  "Proyectos": [
+    {
+      "id": 1,
+      "name": "Robotica",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": [
+        {
+          "name": "Sensor",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        },
+        {
+          "name": "Gas",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        },
+        {
+          "name": "Agua",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        }
+      ],
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Carlos Alberto Ruiz",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "id": 2,
+      "name": "Baloncesto",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": [
+        {
+          "name": "Sensor",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        },
+        {
+          "name": "Gas",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        },
+        {
+          "name": "Agua",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        }
+      ],
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Flor Maria",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "Para el año 2025 la Institución Educativa Carlos Arturo Duque Ramírez, será reconocida en la región por su excelente nivel académico, aporte a la innovación, formación en valores y estudiantes con sentido de pertenencia, comprometidos en la conservación del medio ambiente y la práctica de convivencia ciudadana que permita el desarrollo intelectual, socioeconómico, cultural y deportivo; aportando al mejoramiento de la calidad de vida en los ámbitos local, regional y nacional."
+    },
+    {
+      "id": 3,
+      "name": "Desarrollo web",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": [
+        {
+          "name": "Sensor",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        },
+        {
+          "name": "Gas",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        },
+        {
+          "name": "Agua",
+          "imageUrl": "https://via.placeholder.com/600x400",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tenetur debitis et aut consequatur animi sint voluptatum alias illum sapiente? Placeat optio ducimus vel cum deleniti nulla voluptatem pariatur inventore, velit temporibus a iure odio porro necessitatibus sed neque eum. Ea soluta sint rerum illum tempora error ipsa aperiam natus eaque autem laboriosam hic, modi numquam placeat sapiente temporibus mollitia culpa dolor id, quaerat magni accusantium? Nostrum nesciunt ut odio eos facilis, officia obcaecati repudiandae?"
+        }
+      ],
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Flor Maria",
+        "sede": "Carlos Arturo",
+        "Ocupacion": "Entrenador"
+      },
+      "description": "La Institución Educativa Carlos Arturo Duque Ramírez de carácter oficial, ofrece educación preescolar, básica, media académica y modelos educativos flexibles, para la formación integral a niños, niñas, jóvenes y adultos; desarrollando competencias básicas y ciudadanas, a través de procesos didácticos como la investigación, contribuyendo al sostenimiento y conservación de un buen entorno social, ambiental, cultural, político y económico del Municipio"
+    }
+  ],
+  "SecundProyectos": [
+    {
+      "name": "Robotica",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "direccion": "arriba",
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "name": "Baloncesto",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "direccion": "abajo",
+      "description": "Para el año 2025 la Institución Educativa Carlos Arturo Duque Ramírez, será reconocida en la región por su excelente nivel académico, aporte a la innovación, formación en valores y estudiantes con sentido de pertenencia, comprometidos en la conservación del medio ambiente y la práctica de convivencia ciudadana que permita el desarrollo intelectual, socioeconómico, cultural y deportivo; aportando al mejoramiento de la calidad de vida en los ámbitos local, regional y nacional."
+    },
+    {
+      "name": "Desarrollo web",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "direccion": "arriba",
+      "description": "La Institución Educativa Carlos Arturo Duque Ramírez de carácter oficial, ofrece educación preescolar, básica, media académica y modelos educativos flexibles, para la formación integral a niños, niñas, jóvenes y adultos; desarrollando competencias básicas y ciudadanas, a través de procesos didácticos como la investigación, contribuyendo al sostenimiento y conservación de un buen entorno social, ambiental, cultural, político y económico del Municipio"
+    },
+    {
+      "name": "Robotica",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "direccion": "abajo",
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    }
+  ],
+  "Curriculum": [
+    {
+      "name": "Matematicas",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com/c/NjExMDU5MjY4Mjgx",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Carlos Alberto Ruiz",
+        "sede": "Carlos Arturo"
+      },
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "id": 4,
+      "name": "ciencias",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "archivos": "https://classroom.google.com",
+      "encargado": {
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "name": "Maturana",
+        "sede": "Carlos Arturo"
+      },
+      "description": "El hoy llamado Institución Educativa Carlos Arturo Duque Ramírez es el resultado de un proceso histórico, pedagógico y académico con base en el esfuerzo hecho por ilustres personajes de la siguiente manera:En el año 1963 llego a Puerto Nare, la pareja compuesta por los esposos Enrique Diez Rojas y Libia Garcés de Diez quienes se encargaron de impulsar ante la comunidad nareña el deseo de fundar un centro de educación media. Esta idea tuvo aceptación y fue así como el colegio empezó sus labores el 7 de febrero de 1964, mediante licencia Nº 65 expedida por la secretaria de educación departamental.El colegio empezó a funcionar en casa de propiedad del señor Jesús Ramírez hoy propiedad del señor Nicolás Montoya, después paso a funcionar en donde hoy en día se encuentra ubicada la sección primaria de la Institución Educativa.Inicio clases con 45 alumnos en los grupos cuarto y quinto de primaria, con una nomina de cinco profesores ellos fueron:Enrique Diez (Rector-profesor),Libia Garcés (Secretaria-profesora, Pablo Espitia,Rosalba Delgado,Gildardo Rivera (Presbítero-profesor)"
+    },
+    {
+      "name": "Fisica",
+      "description": "AIUFBAIPURFBVGWPAEIUFBAWEPIFBAEWUIFBWAEPIUFVBWIEVBPAIFVBCAIPUBWEUAIVE",
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "archivos": "",
+      "encargado": {
+        "name": "Lorena",
+        "imageUrl": "https://via.placeholder.com/100x100",
+        "sede": "Carlos arturo"
+      },
+      "id": 5
+    }
+  ],
+  "consejo": [
+    {
+      "name": "Cesar",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "Ocupacion": "Rector"
+    },
+    {
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "Ocupacion": "Representante"
+    },
+    {
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "Ocupacion": "Representante"
+    },
+    {
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "Ocupacion": "Representante"
+    },
+    {
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "Ocupacion": "Representante"
+    },
+    {
+      "name": "Consejo 1",
+      "imageUrl": "https://via.placeholder.com/300x300",
+      "Ocupacion": "Representante"
+    }
+  ]
+}
